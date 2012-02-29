@@ -30,6 +30,6 @@ apikey = b25b959554ed76058ac220b7b2e0a026
 
 and fill the missing values.
     
-### Usage
+### Usage (at your own risk)
 
     $ python last2what.py -h
